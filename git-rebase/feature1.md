@@ -30,3 +30,7 @@ Then let's commit our changes
 `git add .`{{execute}}
 
 `git commit -m "Added feature 1"`{{execute}}
+
+We can confirm this worked by again looking at the git logs
+
+`git log`{{execute}}

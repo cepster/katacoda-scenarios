@@ -16,6 +16,14 @@
       {
         "title": "Create a new feature in a branch",
         "text": "feature1.md"
+      },
+      {
+        "title": "Make a change to master",
+        "text": "modifyMaster.md"
+      },
+      {
+        "title": "More changes to our feature branch",
+        "text": "modifyFeature1.md"
       }
     ],
     "intro": {
