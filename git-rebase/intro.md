@@ -1,0 +1,1 @@
+In this course you will learn how the git interactive rebase works.  When you're done you will know how to replay your work on top of another branch and re-organize your commits to be as clean as possible before you merge back in to your master branch.
