@@ -1,8 +1,14 @@
 We are on the master branch in our new git repository. Let's create a file and add some history.
 
-`touch foo.txt`{{execute}}
+`touch foo.java`{{execute}}
 
-Feel free to edit the file in the above editor.
+Next, let's add some content to this new file
+
+`public class Foo { 
+    public Foo() { 
+        System.out.println("I'm instantiated!"); 
+    } 
+}`{{copy}}
 
 Next, we'll commit our changes. First we need to add the file to git for tracking.
 

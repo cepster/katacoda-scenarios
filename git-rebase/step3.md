@@ -6,7 +6,7 @@ In this feature branch, let's create a new file
 
 `touch bar.txt`{{execute}}
 
-Let's also modify our original foo file
+Let's also modify our original foo file to include some content
 
 Then let's commit our changes
 
