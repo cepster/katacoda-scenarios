@@ -11,3 +11,7 @@ Next, we'll commit our changes. First we need to add the file to git for trackin
 Then we'll commit
 
 `git commit -m "My first commit"`{{execute}}
+
+Let's check out the git history to confirm that everything is working as expected
+
+`git log`{{execute}}
