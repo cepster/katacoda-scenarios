@@ -20,7 +20,6 @@ Let's also modify our original foo file to add a new feature
     public Foo() { 
         System.out.println("I'm instantiated!"); 
     } 
-
     public String toString() {
         return "I am now a string!";
     }
