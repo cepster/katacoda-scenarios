@@ -4,9 +4,27 @@ Let's add a new feature. First we'll create a new feature branch
 
 In this feature branch, let's create a new file
 
-`touch bar.txt`{{execute}}
+`touch bar.java`{{execute}}
 
-Let's also modify our original foo file to include some content
+Add this content to bar.java
+
+`public class Bar { 
+    public Bar() { 
+        System.out.println("I'm also instantiated!"); 
+    } 
+}`{{copy}}
+
+Let's also modify our original foo file to add a new feature
+
+`public class Foo { 
+    public Foo() { 
+        System.out.println("I'm instantiated!"); 
+    } 
+
+    public String toString() {
+        return "I am now a string!";
+    }
+}`{{copy}}
 
 Then let's commit our changes
 
