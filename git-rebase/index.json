@@ -6,10 +6,6 @@
   "details": {
     "steps": [
       {
-        "title": "Initialize Your Git Repository",
-        "text": "1-initialize.md"
-      },
-      {
         "title": "Add Content to your Repository",
         "text": "2-createfoo.md"
       },
@@ -28,10 +24,15 @@
       {
         "title": "Rebase Feature1 changes on top of Master",
         "text": "6-rebase.md"
+      },
+      {
+        "title": "Further modify commits via an interactive rebase",
+        "text": "7-interactive-rebase.md"
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "setup.sh"
     },
     "finish": {
       "text": "finish.md"

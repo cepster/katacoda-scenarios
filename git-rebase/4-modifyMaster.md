@@ -7,13 +7,14 @@ Now, let's make our own change to foo.java.  Replace the contents of Foo.java wi
 `
 public class Foo{
     private static final String FOO = "BAR";
-    public Foo() {
-    }
+    public Foo() { 
+        System.out.println("I'm instantiated!"); 
+    } 
 }
 `{{copy}}
 
 Let's commit this change
-`git commit -am "Added variable to Foo"`{{execute}}
+`git commit -am "MASTER -- Added variable to Foo"`{{execute}}
 
 Now let's go back to our feature branch
 
