@@ -24,6 +24,10 @@
       {
         "title": "More changes to our feature branch",
         "text": "5-modifyFeature1.md"
+      },
+      {
+        "title": "Rebase Feature1 changes on top of Master",
+        "text": "6-rebase.md"
       }
     ],
     "intro": {
