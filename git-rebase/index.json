@@ -7,23 +7,23 @@
     "steps": [
       {
         "title": "Initialize Your Git Repository",
-        "text": "initialize.md"
+        "text": "1-initialize.md"
       },
       {
         "title": "Add Content to your Repository",
-        "text": "createfoo.md"
+        "text": "2-createfoo.md"
       },
       {
         "title": "Create a new feature in a branch",
-        "text": "feature1.md"
+        "text": "3-feature1.md"
       },
       {
         "title": "Make a change to master",
-        "text": "modifyMaster.md"
+        "text": "4-modifyMaster.md"
       },
       {
         "title": "More changes to our feature branch",
-        "text": "modifyFeature1.md"
+        "text": "5-modifyFeature1.md"
       }
     ],
     "intro": {

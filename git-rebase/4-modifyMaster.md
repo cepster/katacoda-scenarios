@@ -17,4 +17,4 @@ Let's commit this change
 
 Now let's go back to our feature branch
 
-`git checkout feature`{{execute}}
+`git checkout feature1`{{execute}}
