@@ -1,4 +1,4 @@
-Now that we're back on feature1, let's make some more changes.  
+Our work continues, and we will continue to make changes to our feature branch, all while the master branch continues to get commits from other developers
 
 Let's make a change to Bar.java
 `

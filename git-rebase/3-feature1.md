@@ -4,7 +4,7 @@ Let's add a new feature. First we'll create a new feature branch
 
 In this feature branch, let's create a new file
 
-`touch bar.java`{{execute}}
+`touch Bar.java`{{execute}}
 
 Add this content to bar.java
 

@@ -6,7 +6,7 @@
   "details": {
     "steps": [
       {
-        "title": "Add Content to your Repository",
+        "title": "Add Initial Content to the Master Branch",
         "text": "2-createfoo.md"
       },
       {
@@ -14,12 +14,9 @@
         "text": "3-feature1.md"
       },
       {
-        "title": "Make a change to master",
-        "text": "4-modifyMaster.md"
-      },
-      {
         "title": "More changes to our feature branch",
-        "text": "5-modifyFeature1.md"
+        "text": "5-modifyFeature1.md",
+        "courseData": "modifyMaster.sh"
       },
       {
         "title": "Rebase Feature1 changes on top of Master",
