@@ -4,7 +4,7 @@ To demonstrate this, let's first undo our previous git merge
 
 `git reset --hard ORIG_HEAD`{{execute}}
 
-The command is simple.  From the branch you want to rebase, simply type "git rebase" plus the branch you would like to rebranch on top of.
+The rebase command is simple.  From the branch you want to rebase, simply type "git rebase" plus the branch you would like to rebranch on top of.
 
 `git rebase master`{{execute}}
 
